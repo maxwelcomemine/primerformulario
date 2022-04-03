@@ -1,0 +1,32 @@
+body{
+    background: url(./assets/fondo.jpg);
+    /*background-size-->para darle el tamaño al background*/
+    background-size: 100%;
+}
+
+.registro{
+    text-align: center;
+    background-color:coral;
+    width: 27%;
+    padding: 40px;
+    border-radius: 20px;
+    margin: 0 auto;
+    margin-top: 120px;
+}
+
+input{
+    border-radius: 5px;
+}
+
+label{
+    color:white;
+}
+
+h1{
+    color: white;
+}
+
+.submit{
+    width: 100px;
+    padding: 10px;
+}
